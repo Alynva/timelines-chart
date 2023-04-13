@@ -1,3 +1,12 @@
+## TODOs
+
+- [ ] Hide `val` legend
+- [ ] Hide `labels` legend
+- [ ] Custom color for each range
+- [ ] Custom floating box
+- [ ] Allow ranges be in multiple groups (based on its new `id` field)
+  - [ ] Draw a rectangle with low opacity between the ranges in multiple groups
+
 Timelines Chart
 ==============
 
